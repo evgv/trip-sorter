@@ -40,4 +40,6 @@ Enjoy :)
 
 
 ## TODO
-Add some TDD using PHPUnit. Yes, I'm lazy and I know it :(
+[ ] Add some TDD using PHPUnit. Yes, I'm lazy and I know it :disappointed:
+
+I've found a more complex example here ... https://github.com/irfan/tripsorter
