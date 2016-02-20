@@ -36,8 +36,8 @@ The details about boarding cards is in <b>cards.php</b>
 ```
 php index.php
 ```
+Enjoy :)
 
-## Enjoy
 
 ## TODO
 Add some TDD using PHPUnit. Yes, I'm lazy and I know it :(
